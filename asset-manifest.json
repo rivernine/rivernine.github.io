@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rivernine.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rivernine.github.io/static/js/main.fbe27d95.chunk.js",
+    "main.js.map": "/rivernine.github.io/static/js/main.fbe27d95.chunk.js.map",
+    "runtime-main.js": "/rivernine.github.io/static/js/runtime-main.36b0537b.js",
+    "runtime-main.js.map": "/rivernine.github.io/static/js/runtime-main.36b0537b.js.map",
+    "static/js/2.d393c82c.chunk.js": "/rivernine.github.io/static/js/2.d393c82c.chunk.js",
+    "static/js/2.d393c82c.chunk.js.map": "/rivernine.github.io/static/js/2.d393c82c.chunk.js.map",
+    "index.html": "/rivernine.github.io/index.html",
+    "precache-manifest.59dfa80c06ac474db4d54d1819d9a68a.js": "/rivernine.github.io/precache-manifest.59dfa80c06ac474db4d54d1819d9a68a.js",
+    "service-worker.js": "/rivernine.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rivernine.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d393c82c.chunk.js.LICENSE.txt": "/rivernine.github.io/static/js/2.d393c82c.chunk.js.LICENSE.txt",
+    "static/media/icon.svg": "/rivernine.github.io/static/media/icon.38501904.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36b0537b.js",
+    "static/js/2.d393c82c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.fbe27d95.chunk.js"
+  ]
+}
